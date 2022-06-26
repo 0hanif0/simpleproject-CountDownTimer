@@ -1,4 +1,4 @@
-# CountDownTimer
+# Count Down Timer
 - Basic HTML, CSS and JavaScript
 - Count down timer for 7 days
 
