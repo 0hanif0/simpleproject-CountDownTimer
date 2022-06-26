@@ -1,4 +1,4 @@
-# simpleproject-CountDownTimer
+# CountDownTimer
 - Basic HTML, CSS and JavaScript
 - Count down timer for 7 days
 
